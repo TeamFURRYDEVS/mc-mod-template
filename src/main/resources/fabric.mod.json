@@ -1,9 +1,9 @@
 {
     "schemaVersion": 1,
-    "id": "macas",
+    "id": "modid",
     "version": "${version}",
-    "name": "MACAS",
-    "description": "Attribute system for RPG styled mods and much more.",
+    "name": "Name",
+    "description": "Description",
     "authors": [
         "Somebody"
     ],
@@ -31,12 +31,5 @@
         "java": ">=${java_version}",
         "fabric-api": "*",
         "fabric-language-kotlin": "*"
-    },
-    "custom": {
-        "modmenu": {
-            "badges": [
-                "library"
-            ]
-        }
     }
 }
