@@ -11,7 +11,7 @@ object ExampleMod : ModInitializer {
 	val LOGGER: Logger = LoggerFactory.getLogger(MOD_ID)
 
 	override fun onInitialize() {
-		LOGGER.info("Monsters And Crafts Attribute System!")
+		LOGGER.info("Hello, World!")
 	}
 
 	fun id(path: String): Identifier
